@@ -11,7 +11,7 @@
 ## วิธีการติดตั้งและใช้งาน
 
 1. ติดตั้ง [Flutter](https://flutter.dev/docs/get-started/install)
-2. โคลนโปรเจกต์นี้ไปที่เครื่องของคุณ:
+2. โคลนโปรเจกต์นี้ไปที่เครื่อง :
 
    ```bash
    git clone https://github.com/your-username/todo-app.git
